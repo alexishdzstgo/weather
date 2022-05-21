@@ -1,0 +1,17 @@
+
+body{
+  background-image: url("https://images5.alphacoders.com/414/thumb-1920-414171.jpg");
+  color: #ffffff;
+}
+
+.App {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.473);
+  margin: auto;
+  width: 30%;
+  height: 500px;
+  border-radius: 8px;
+}
+
+
+
